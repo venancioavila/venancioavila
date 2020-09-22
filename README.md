@@ -2,7 +2,7 @@
 
 ## Venâncio Ávila
 
-I'm a fullstack node developer.
+Fullstack node developer.
 
 I have a lot of experience with [React](), [React-Native]() and [node]().
 
