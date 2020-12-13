@@ -104,7 +104,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
   <br />
   <summary><b>⚙️ Coisas que eu uso para fazer coisas</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> MacOS Big Sur </li>
 	    <li><b>Laptop: </b> Macbook pro (i5)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Editor de código:</b> VSCode - The best editor out there</li>
