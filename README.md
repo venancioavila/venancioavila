@@ -48,9 +48,9 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
 </details>
 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary><b>🧑‍🚀Projetos Open Source</b></summary>
 
-  <!-- <br />
+  <br />
   <table>
     <thead align="center">
       <tr border: none;>
@@ -64,28 +64,28 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/venancioavila/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/venancioavila/cotrack"><b>🚀 Cotrack</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/cotrack?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/cotrack?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/cotrack?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/cotrack?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/cotrack?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/venancioavila/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/venancioavila/realvalor"><b>💸 realvalor</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/realvalor?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/realvalor?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/realvalor?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/realvalor?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/realvalor?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/venancioavila/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/venancioavila/action"><b>👨🏻‍💻 action</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/venancioavila/action?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/venancioavila/action?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/venancioavila/action?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/venancioavila/action?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/venancioavila/action?style=flat-square"/></td> 
       </tr>
       <tr>
 	      <td><a href="https://github.com/venancioavila/venancioavila"><b>🤓 venancioavila</b></a></td>
@@ -97,7 +97,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
       </tr>
     </tbody>
   </table>
-  <br /> -->
+  <br />
 </details>
  
 <details>	
