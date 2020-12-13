@@ -13,7 +13,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
 
 ### Falando sobre coisas pessoais::
 
-- 🛠 &nbsp; Atualmente estou trabalhando com Nodejs, Express, React, React Native <br /> Graphql, Mongodb, Javascript, Typescript, etc.
+- 🛠 &nbsp; Atualmente estou trabalhando com Nodejs, Express, React, React Native, Graphql, Mongodb, Javascript, Typescript, etc.
 - 🚀 &nbsp; Atualmente trabalho como desenvolvedor fullstack.
 - 👨🏻‍💻 &nbsp; Meus projetos estão disponíveis em [Github](https://github.com/venancioavila).
 - 💬 &nbsp; Pergunte-me qualquer coisa em: [here](https://github.com/venancioavila/venancioavila/issues/2)! Vou ficar super feliz em ajudar.
