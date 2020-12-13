@@ -14,17 +14,18 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
 ### Falando sobre coisas pessoais::
 
 - 🛠 &nbsp; Atualmente estou trabalhando com Nodejs, Express, React, React Native, Graphql, Mongodb, Javascript, Typescript, etc.
-- 🚀 &nbsp; Atualmente trabalho como desenvolvedor fullstack.
+- 🚀 &nbsp; Trabalho como desenvolvedor fullstack.
 - 👨🏻‍💻 &nbsp; Meus projetos estão disponíveis em [Github](https://github.com/venancioavila).
 - 💬 &nbsp; Pergunte-me qualquer coisa em: [here](https://github.com/venancioavila/venancioavila/issues/2)! Vou ficar super feliz em ajudar.
 - 👾 &nbsp; Curiosidade: igual nem sempre é igual em Javascript.
 - 📫 &nbsp; How to reach me: venanciodesouza@icloud.com.
-- 📝 &nbsp; Como me encontrar [Resume](https://github.com/venancioavila/venancioavila/blob/master/resume.pdf).
+- 📝 &nbsp; Como me encontrar [CV](https://github.com/venancioavila/venancioavila/blob/master/resume.pdf).
 
-### Meus favoritos absolutos:
+### Gosto muito:
 
 - 💻 &nbsp; Adoro explorar novas tecnologias e construir coisas legais.
 - 📰 &nbsp; Ajudar pessoas que estão precisando de um help.
+- 🍕 &nbsp; Pizza, é claro!
 
 ### Languages and Tools:
 
@@ -49,7 +50,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
-  <br />
+  <!-- <br />
   <table>
     <thead align="center">
       <tr border: none;>
@@ -96,7 +97,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (F
       </tr>
     </tbody>
   </table>
-  <br />
+  <br /> -->
 </details>
  
 <details>	
