@@ -7,7 +7,7 @@
 
 ### Estou contente por te ver por aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venancioavila.venancioavila&style=flat-square&color=0088cc)
 
-Eu sou bacharel em Sistemas de Informação 🎓 pela faculdade de Imperatriz (FACIMP) 🏛. Sou um profissional apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro orientar e ser mentor de novatos 👨🏻‍💻. Atualmente estou trabalhando em Desenvolvimento Web 🕸️ e mobile 📱.
+Eu sou bacharel em Sistemas de Informação 🎓 pela Faculdade de Imperatriz (FACIMP) 🏛. Sou um profissional apaixonado que está sempre disposto a aprender e trabalhar com tecnologias e domínios 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro orientar e ser mentor de novatos 👨🏻‍💻. Atualmente estou trabalhando em Desenvolvimento Web 🕸️ e Mobile 📱.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/venancioavila/venancioavila/master/gifs/coder.gif" />
 
