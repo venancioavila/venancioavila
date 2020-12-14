@@ -18,7 +18,7 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela Faculdade de Imperatriz (F
 - 👨🏻‍💻 &nbsp; Meus projetos estão disponíveis em [Github](https://github.com/venancioavila).
 - 💬 &nbsp; Pergunte-me qualquer coisa em: [aqui](https://github.com/venancioavila/venancioavila/issues/)! Vou ficar super feliz em ajudar.
 - 👾 &nbsp; Curiosidade: igual nem sempre é igual em Javascript.
-- 📫 &nbsp; How to reach me: venanciodesouza@icloud.com.
+- 📫 &nbsp; Para contratar meus serviços: venanciodesouza@icloud.com.
 - 📝 &nbsp; Como me encontrar [CV](https://github.com/venancioavila/venancioavila/blob/master/resume.pdf).
 
 ### Gosto muito:
@@ -115,6 +115,6 @@ Eu sou bacharel em Sistemas de Informação 🎓 pela Faculdade de Imperatriz (F
 
 <div align="center">
 
-### Mostre alguns ❤️ marcando alguns dos repositórios!
+### Deixe uma ⭐️ em algum repo Open Source! Que a força esteja com você!
 
 </div>
